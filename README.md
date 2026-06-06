@@ -20,7 +20,7 @@ O participante que sobreviver até o final do sorteio recebe o título de **Azar
 ## 📋 Como funciona
 
 1. O usuário inicia o programa pelo terminal.
-2. O sistema solicita ou carrega um arquivo CSV contendo a lista de participantes.
+2. O sistema carrega um arquivo CSV contendo a lista de participantes.
 3. Os participantes são carregados para o sorteio.
 4. A cada rodada, um participante é sorteado e eliminado.
 5. O processo continua até restar apenas um participante.
@@ -55,10 +55,6 @@ Carlos;carlos@email.com.br
 ## 📌 Exemplo de Resultado
 
 ```text
-❌ João foi eliminado
-❌ Ana foi eliminada
-❌ Carlos foi eliminado
-
 O AZARADO MAIS SORTUDO é:
 🏆 Rodrigo Barros <rod***@empresa.com.br>
 🍀 O grande vencedor da Semana da Formação.DEV! 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
@@ -95,4 +91,4 @@ npm start
 
 O arquivo esta em src/data/dados.csv
 
-Após carregar os participantes, o sorteio será iniciado e as eliminações serão exibidas em tempo real até a definição do vencedor.
+Após carregar os participantes, o sorteio será iniciado.
