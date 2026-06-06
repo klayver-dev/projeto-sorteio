@@ -59,8 +59,9 @@ Carlos;carlos@email.com.br
 ❌ Ana foi eliminada
 ❌ Carlos foi eliminado
 
-🏆 VENCEDORA: Maria
-🍀 A Azarada Mais Sortuda da Semana da Formação.DEV!
+O AZARADO MAIS SORTUDO é:
+🏆 Rodrigo Barros <rod***@empresa.com.br>
+🍀 O grande vencedor da Semana da Formação.DEV! 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
 ```
 
 ---

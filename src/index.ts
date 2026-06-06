@@ -8,6 +8,8 @@ const azarado = SortearAzarado(pessoas);
 terminal.clear();
 terminal.white("\n\nO").brightRed(" AZARADO");
 terminal.bold.brightGreen(" MAIS SORTUDO").white(" é: \n");
-terminal.bold.brightYellow(azarado.toString());
-terminal("\n\n🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉");
+terminal.bold.brightYellow(`🏆 ${azarado.toString()}`);
+terminal.bold.brightGreen(
+  "\n🍀 O grande vencedor da Semana da Formação.DEV! 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉"
+);
 console.log();

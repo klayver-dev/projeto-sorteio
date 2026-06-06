@@ -12,6 +12,6 @@ export class Pessoa {
   }
 
   toString(): string {
-    return `${this.nome} 🍀 <${this.emailMascarado}>`;
+    return `${this.nome} <${this.emailMascarado}>`;
   }
 }
